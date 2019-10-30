@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FrameworklessApp" t="IncludeRecursive">
+        <e p="APIResponseFactory" t="Include">
+          <e p="ApiDeleteResponseFactory.cs" t="Include" />
+          <e p="ApiGetResponseFactory.cs" t="Include" />
+          <e p="ApiPostResponseFactory.cs" t="Include" />
+          <e p="DELETEResponses" t="Include">
+            <e p="DeletedMemberResponse.cs" t="Include" />
+            <e p="DeletedResourceResponse.cs" t="Include" />
+            <e p="IApiDeleteResponse.cs" t="Include" />
+          </e>
+          <e p="GETResponses" t="Include">
+            <e p="AllBoardgamesResponse.cs" t="Include" />
+            <e p="AllBooksResponse.cs" t="Include" />
+            <e p="AllMembersResponse.cs" t="Include" />
+            <e p="AllResourcesResponse.cs" t="Include" />
+            <e p="IApiResponse.cs" t="Include" />
+            <e p="InvalidRequest.cs" t="Include" />
+            <e p="MultipleMembersResponse.cs" t="Include" />
+            <e p="OneOrMoreBoardgamesResponse.cs" t="Include" />
+            <e p="OneOrMoreBooksResponse.cs" t="Include" />
+          </e>
+          <e p="POSTResponses" t="Include">
+            <e p="AddMembersResponse.cs" t="Include" />
+            <e p="IApiPostResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FrameworklessApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="FrameworklessApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="FrameworklessApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_FrameworklessApp.2118512807.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/RiderProjects/Myob.Fma/Myob.Fma.BookingLibrary" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BorrowedItems" t="Include">
+        <e p="BorrowedItem.cs" t="Include" />
+        <e p="IBorrowedItem.cs" t="Include" />
+      </e>
+      <e p="BorrowedItemsManagement" t="Include">
+        <e p="BorrowingManager.cs" t="Include" />
+        <e p="IBorrowingManager.cs" t="Include" />
+      </e>
+      <e p="Constants" t="Include">
+        <e p="Constant.cs" t="Include" />
+      </e>
+      <e p="Core" t="Include">
+        <e p="Person.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="MembersBorrowingLimitExceededException.cs" t="Include" />
+        <e p="MembershipNotActiveException.cs" t="Include" />
+        <e p="ResourceNotAvailableException.cs" t="Include" />
+        <e p="ResourceNotInInventoryException.cs" t="Include" />
+      </e>
+      <e p="Library.cs" t="Include" />
+      <e p="MembershipManagement" t="Include">
+        <e p="IMembershipManager.cs" t="Include" />
+        <e p="MembershipManager.cs" t="Include" />
+      </e>
+      <e p="Memberships" t="Include">
+        <e p="IMembership.cs" t="Include" />
+        <e p="Membership.cs" t="Include" />
+      </e>
+      <e p="MembershipStatus" t="Include">
+        <e p="BronzeMembership.cs" t="Include" />
+        <e p="Enums" t="Include">
+          <e p="Status.cs" t="Include" />
+        </e>
+        <e p="GoldMembership.cs" t="Include" />
+        <e p="IMembershipStatus.cs" t="Include" />
+        <e p="SilverMembership.cs" t="Include" />
+      </e>
+      <e p="Myob.Fma.BookingLibrary.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Myob.Fma.BookingLibrary.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ResourceManagement" t="Include">
+        <e p="IResourceManager.cs" t="Include" />
+        <e p="ResourceManager.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="BoardGame.cs" t="Include" />
+        <e p="Book.cs" t="Include" />
+        <e p="IResource.cs" t="Include" />
+        <e p="ResourceType.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

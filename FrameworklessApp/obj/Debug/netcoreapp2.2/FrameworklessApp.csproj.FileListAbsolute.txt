@@ -1,0 +1,14 @@
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/FrameworklessApp.deps.json
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/FrameworklessApp.runtimeconfig.json
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/FrameworklessApp.runtimeconfig.dev.json
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/FrameworklessApp.dll
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/FrameworklessApp.pdb
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.csprojAssemblyReference.cache
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.csproj.CoreCompileInputs.cache
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.AssemblyInfoInputs.cache
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.AssemblyInfo.cs
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.dll
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.pdb
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/Myob.Fma.BookingLibrary.dll
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/bin/Debug/netcoreapp2.2/Myob.Fma.BookingLibrary.pdb
+/Users/ben.muller/Katas/FramelessWebApp/FrameworklessApp/FrameworklessApp/obj/Debug/netcoreapp2.2/FrameworklessApp.csproj.CopyComplete
